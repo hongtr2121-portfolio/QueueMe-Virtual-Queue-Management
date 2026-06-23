@@ -1,0 +1,19 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+
+# ASP.NET
+**/bin/
+**/obj/
+
+# Flutter
+.dart_tool/
+build/
+
+# User files
+*.user
+*.suo
+
+# Logs
+*.log

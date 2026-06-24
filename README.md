@@ -164,7 +164,7 @@ The conceptual model describes relationships among users, customers, services, t
 
 ## Physical Database Schema
 
-![Database Schema](docs/physical-database-schema.png)
+![Database Schema](docs/database-schema.png)
 
 The database design supports queue management, customer management, notifications, service administration, and reporting functionalities.
 

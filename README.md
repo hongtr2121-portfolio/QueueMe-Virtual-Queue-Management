@@ -140,15 +140,15 @@ Submit Feedback
 
 ## Queue Management
 
-![Queue Management](screenshots/admin/admin-queues.png)
+![Queue Management](screenshots/admin/admin_queues.png)
 
 ## Reporting Dashboard
 
-![Reports](screenshots/admin/reports-dashboard.png)
+![Reports](screenshots/admin/reports_dashboard.png)
 
 ## Settings Management
 
-![Settings](screenshots/admin/settings-management.png)
+![Settings](screenshots/admin/settings_management.png)
 
 ---
 
